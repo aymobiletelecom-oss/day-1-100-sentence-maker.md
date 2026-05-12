@@ -1,4 +1,4 @@
-Day-1-100-sentence-maker.md
+100 days-sentence-maker.md
 
    Day 1 : Sentence Maker - Debugging Strings
 
