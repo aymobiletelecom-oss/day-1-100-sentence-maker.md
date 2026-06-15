@@ -1,0 +1,17 @@
+## Day 2: Build a Greeting Bot ✅
+**freeCodeCamp - JavaScript Certification**
+
+**What I learned today:**
+- `let` vs `const`: `let` for values that change like `bot`, `const` for fixed values like `favoriteSubject`
+- String concatenation: `"My name is " + bot + "."`
+- Using `console.log()` to test output in real time
+
+**Project**: Created `teacherBot` → `professorBot` → `awesomeTeacherBot` that prints a full introduction to the console.
+
+**Reality check**: Coding in Nigeria in 2026 comes with NEPA, data costs, and the mental load of insecurity. But 1 day, 1 lesson, 1 commit at a time.
+
+**Next**: Day 3 - More JS fundamentals
+
+`console.log("Still here. Still learning.")`
+
+#100DaysOfCode #Day2
